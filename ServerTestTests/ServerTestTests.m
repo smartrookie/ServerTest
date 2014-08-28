@@ -31,4 +31,9 @@
     XCTAssert(true, @"server test");
 }
 
+- (void)testServerTest
+{
+    XCTAssert(false, @"something is wrong with you");
+}
+
 @end
